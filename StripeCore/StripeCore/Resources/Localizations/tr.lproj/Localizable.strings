@@ -18,7 +18,6 @@
 
 "Try again" = "Tekrar dene";
 
-"We use Stripe to verify your card details. Stripe may use and store your data according its privacy policy. <a href='https://support.stripe.com/questions/stripes-card-image-verification'><u>Learn more</u></a>" = "Kart bilgilerinizi doğrulamak için Stripe kullanıyoruz. Stripe verilerinizi gizlilik politikasına uygun şekilde kullanabilir ve saklayabilir.<a href='https://support.stripe.com/questions/stripes-card-image-verification'><u>Daha fazlasını öğrenin</u></a>";
 
 "Your card has expired" = "Kartınızın kullanım süresi dolmuş";
 

@@ -18,7 +18,6 @@
 
 "Try again" = "Pokušajte ponovo";
 
-"We use Stripe to verify your card details. Stripe may use and store your data according its privacy policy. <a href='https://support.stripe.com/questions/stripes-card-image-verification'><u>Learn more</u></a>" = "Koristimo Stripe za provjeru vaših podataka o kartici. Stripe može koristiti i pohranjivati vaše podatke u skladu sa svojim pravilima privatnosti. <a href='https://support.stripe.com/questions/stripes-card-image-verification'><u>Saznajte više</u></a>";
 
 "Your card has expired" = "Vaša kartica je istekla";
 

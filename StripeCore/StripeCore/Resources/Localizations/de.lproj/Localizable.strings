@@ -18,7 +18,6 @@
 
 "Try again" = "Erneut versuchen";
 
-"We use Stripe to verify your card details. Stripe may use and store your data according its privacy policy. <a href='https://support.stripe.com/questions/stripes-card-image-verification'><u>Learn more</u></a>" = "Wir nutzen Stripe, um Ihre Kartenangaben zu verifizieren. Stripe kann im Einklang mit seiner Datenschutzerklärung Ihre Daten verwenden und speichern. <a href='https://support.stripe.com/questions/stripes-card-image-verification'><u>Mehr erfahren</u></a>";
 
 "Your card has expired" = "Ihre Karte ist abgelaufen.";
 

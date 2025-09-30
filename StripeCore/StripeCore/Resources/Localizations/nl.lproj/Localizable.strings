@@ -18,7 +18,6 @@
 
 "Try again" = "Opnieuw proberen";
 
-"We use Stripe to verify your card details. Stripe may use and store your data according its privacy policy. <a href='https://support.stripe.com/questions/stripes-card-image-verification'><u>Learn more</u></a>" = "We gebruiken Stripe om je kaartgegevens te verifiëren. Stripe kan je gegevens gebruiken en bewaren volgens hun privacybeleid. <a href='https://support.stripe.com/questions/stripes-card-image-verification'><u>Meer informatie</u></a>";
 
 "Your card has expired" = "Je kaart is vervallen";
 

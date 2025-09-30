@@ -18,7 +18,6 @@
 
 "Try again" = "Subukan muli";
 
-"We use Stripe to verify your card details. Stripe may use and store your data according its privacy policy. <a href='https://support.stripe.com/questions/stripes-card-image-verification'><u>Learn more</u></a>" = "Gumagamit kami ng Stripe para i-verify ang mga detalye ng iyong kard. Maaaring gamitin at imbakin ng Stripe ang iyong data ayon sa patakaran sa privacy nito. <a href='https://support.stripe.com/questions/stripes-card-image-verification'><u>Alamin ang higit pa</u></a>";
 
 "Your card has expired" = "Napaso na ang iyong kard";
 

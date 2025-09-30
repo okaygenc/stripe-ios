@@ -18,7 +18,6 @@
 
 "Try again" = "Zkusit znovu";
 
-"We use Stripe to verify your card details. Stripe may use and store your data according its privacy policy. <a href='https://support.stripe.com/questions/stripes-card-image-verification'><u>Learn more</u></a>" = "K ověření údajů o vaší kartě používáme službu Stripe. Společnost Stripe může vaše údaje používat a ukládat v souladu se svými zásadami ochrany osobních údajů. <a href='https://support.stripe.com/questions/stripes-card-image-verification'><u>Více informací</u></a>";
 
 "Your card has expired" = "Platnost Vaší karty uplynula";
 

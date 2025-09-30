@@ -18,7 +18,6 @@
 
 "Try again" = "โปรดลองอีกครั้ง";
 
-"We use Stripe to verify your card details. Stripe may use and store your data according its privacy policy. <a href='https://support.stripe.com/questions/stripes-card-image-verification'><u>Learn more</u></a>" = "เราใช้ Stripe เพื่อยืนยันรายละเอียดบัตรของคุณ ดังนั้น Stripe อาจจะใช้และจัดเก็บข้อมูลของคุณไว้ตามนโยบายความเป็นส่วนตัวของบริษัท <a href='https://support.stripe.com/questions/stripes-card-image-verification'><u>ดูข้อมูลเพิ่มเติม</u></a>";
 
 "Your card has expired" = "บัตรของคุณหมดอายุแล้ว";
 
